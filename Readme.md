@@ -14,7 +14,7 @@ Thanks for the [Dortania's OpenCore Install Guide](https://dortania.github.io/Op
 
 ## Software
 
-- OpenCore: ***0.6.6***
+- OpenCore: ***0.7.0***
 
 - BIOS: 
   - Version: ***Latest***. You can get it [here](https://rog.asus.com/us/motherboards/rog-strix/rog-strix-b360-i-gaming-model/helpdesk_bios).
