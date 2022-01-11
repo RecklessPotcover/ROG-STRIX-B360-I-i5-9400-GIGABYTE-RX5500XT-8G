@@ -14,13 +14,13 @@ Thanks for the [Dortania's OpenCore Install Guide](https://dortania.github.io/Op
 
 ## Software
 
-- OpenCore: ***0.7.0***
+- OpenCore: ***0.7.6***
 
 - BIOS: 
   - Version: ***Latest***. You can get it [here](https://rog.asus.com/us/motherboards/rog-strix/rog-strix-b360-i-gaming-model/helpdesk_bios).
   - Setup: According to [Dortania's OpenCore Install Guide](https://dortania.github.io/OpenCore-Install-Guide/config.plist/coffee-lake.html#intel-bios-settings)
 - USB Creation Platform: ***MacOS***
-- Tested Compatible MacOS: ***MacOS Big Sur 11.2.3***
+- Tested Compatible MacOS: ***macOS Monterey 12.1***
 
 ## Precautions
 
@@ -42,11 +42,8 @@ Thanks for the [Dortania's OpenCore Install Guide](https://dortania.github.io/Op
 
 ## Issue
 
-The only problem that concerns me is sleep.
-
-The fans may start to spin automatically but won't light the monitor up. Except for this "issue", she can sleep and wake up perfectly.
-
-I don't know if this is normal. If anyone knows it's normal or the solution, please let me know :)
+- The greatest ***problem*** that concerns me is ***sleep***. The fans may start to spin automatically but won't light the monitor up. Except for this "issue", she can sleep and wake up perfectly. I don't know if this is normal. If anyone knows it's normal or the solution, please let me know :)
+- The second minor issue is the ***HDMI audio not working***. Good news is that audio through PD ports is working smoothly.
 
 ## Tail
 
